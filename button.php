@@ -1,4 +1,4 @@
 <?php
-function renderButton($name) {
-    return "<a>".$name."</a>";
+function renderButton($name, $link) {
+    return "<a href=".$link.">".$name."</a>";
 }
