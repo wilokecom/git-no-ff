@@ -1,2 +1,2 @@
 <?php
-echo renderButtom("Atuan");
+echo renderButton("Atuan");
