@@ -1,4 +1,4 @@
 <?php
-function renderButton($name) {
-    return "<button>".$name."</button>";
+function renderButtom($name) {
+    return "<a>".$name."</a>";
 }
